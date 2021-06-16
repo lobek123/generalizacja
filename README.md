@@ -1,0 +1,1 @@
+# generalizacja dane do projektu
